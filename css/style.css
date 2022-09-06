@@ -723,7 +723,10 @@ footer .copyright {
     object-fit: contain;
 }
 .flyers.logos{
-padding-right:4rem;
+    padding-right:4rem;
+    align-items:center;
+    self-align:center;
+    align-self:center;
 }
 footer .copyright p {
     margin-bottom: 0;
