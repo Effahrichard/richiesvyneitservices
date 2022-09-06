@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 header {
     background-image: url(../imgs/header.png);
     background-size: cover;
