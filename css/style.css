@@ -722,7 +722,9 @@ footer .copyright {
     margin-right: 4rem;
     object-fit: contain;
 }
-
+.flyers.logos{
+padding-right:2rem;
+}
 footer .copyright p {
     margin-bottom: 0;
     font-size: 16px;
