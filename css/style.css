@@ -727,6 +727,8 @@ footer .copyright {
     align-items:center;
     self-align:center;
     align-self:center;
+    display:flex;
+    align-content:center;
 }
 footer .copyright p {
     margin-bottom: 0;
